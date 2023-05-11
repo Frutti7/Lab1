@@ -16,6 +16,7 @@ public class Labo1INF2050 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.printf("Hello %s %s", args[0],args[1]);
+        System.out.print("second commit");
     }
     
 }
